@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.Admin" id="8610dc65-e84d-4dc5-9f9d-6c63c84174f5" configVersion="526474bca288c7459b03555698d3e93d00000000">
+			<Metadata name="Catalog.Admin.Attribute.password" id="f777e33c-fe6d-4ff8-bb42-88727f1a38e7"/>
+		</Metadata>
+		<Metadata name="Catalog.Championahips" id="0dbb24df-2cc1-4640-8fa6-745fa42732ca" configVersion="7b42797db19ec04bacd74a2bbb8d9a9600000000">
+			<Metadata name="Catalog.Championahips.Attribute.descriptions" id="2591d890-b23a-4503-8e2a-d862518ba9a8"/>
+			<Metadata name="Catalog.Championahips.Attribute.location" id="4f4d3c5c-f59f-4e1e-a5ab-0bd9f9f4a10d"/>
+			<Metadata name="Catalog.Championahips.Attribute.begin_date" id="92baa00d-fb13-46d6-a636-27591119e76f"/>
+			<Metadata name="Catalog.Championahips.Attribute.end_date" id="daca32d7-a68b-468f-9087-466ba4c536a9"/>
+		</Metadata>
+		<Metadata name="Catalog.Profile" id="677070d6-205e-42b7-a239-ee1a10cec3c0" configVersion="4ca891f39c11fa4f85aa64463c00e7e600000000">
+			<Metadata name="Catalog.Profile.Attribute.school" id="3ae5c1c4-f644-4603-af4a-e717a3bb6a07"/>
+			<Metadata name="Catalog.Profile.Attribute.second_name" id="42e1768b-d4e9-4770-9e6e-8f7c71c59ad6"/>
+			<Metadata name="Catalog.Profile.Attribute.fitst_name" id="47293b8f-cd47-47e1-97b2-41495b3bd6ee"/>
+			<Metadata name="Catalog.Profile.Attribute.age" id="5b4f5371-0724-4efb-8233-063d748011af"/>
+			<Metadata name="Catalog.Profile.Attribute.last_name" id="7caaa5fd-fb12-4e83-a11c-a018b5040414"/>
+			<Metadata name="Catalog.Profile.Attribute.location" id="a5b80be6-38d3-4785-bac2-b9cc47f46692"/>
+			<Metadata name="Catalog.Profile.Attribute.user_id" id="cdff9714-6bf7-4c4f-aea1-e24fe70fff98"/>
+		</Metadata>
+		<Metadata name="Catalog.Teams" id="de7a9a95-1a8c-4656-9899-ee0235f9acbc" configVersion="82c6b8ac4cc74e47bca40855591d9cad00000000"/>
+		<Metadata name="Catalog.Timeline" id="4e6a5893-e6f3-4660-9184-e1250b937d40" configVersion="acf4aed637e7274e9053b8db03f6de4300000000">
+			<Metadata name="Catalog.Timeline.Attribute.event_descriptions" id="2da4eef9-72db-42f0-9aab-cd8a8f264144"/>
+			<Metadata name="Catalog.Timeline.Attribute.event_pictures" id="68bb84cd-ebbf-4552-ae9f-8811d8eab86f"/>
+		</Metadata>
+		<Metadata name="Catalog.Users" id="2a7a7692-9a2b-4725-bc97-1f07299bb5fb" configVersion="1513d5437f798f409995f1eb484ae26800000000">
+			<Metadata name="Catalog.Users.Attribute.phone_number" id="44a80b76-b3a8-4ba9-a6fe-c1585e5332ea"/>
+			<Metadata name="Catalog.Users.Attribute.email" id="88cd8a28-db1e-4ba1-bf23-669c0046b4d1"/>
+			<Metadata name="Catalog.Users.Attribute.password" id="fda955d5-7cba-42f9-8d33-7063e34f1a0d"/>
+		</Metadata>
+		<Metadata name="Catalog.Сайты" id="acd436b1-cf39-4e68-bb37-30b2f55a97fc" configVersion="2c22ac60303881459ed589787fd7745000000000">
+			<Metadata name="Catalog.Сайты.Attribute.Данные" id="2a3267f3-037c-4806-9c08-89ca2a5885d9"/>
+			<Metadata name="Catalog.Сайты.Attribute.ТипЭлемента" id="497fbcf0-79b1-40a2-8625-a9237b134661"/>
+		</Metadata>
+		<Metadata name="Catalog.Сайты.Form.ФормаЗагрузкиСайта" id="8522404c-4fa4-4f62-89ae-a7fe4529a119" configVersion="8d1472aea3e39b45962265fe8bc6a4aa00000000"/>
+		<Metadata name="Catalog.Сайты.Form.ФормаЗагрузкиСайта.Form" id="8522404c-4fa4-4f62-89ae-a7fe4529a119.0" configVersion="4f7ac3c46716ba43a4d2458a8ad933b600000000"/>
+		<Metadata name="Catalog.Сайты.Form.ФормаСписка" id="9c132346-e640-421a-a345-3dfcb01e220f" configVersion="f2c7599cadfdb942aa5d902018213b8f00000000"/>
+		<Metadata name="Catalog.Сайты.Form.ФормаСписка.Form" id="9c132346-e640-421a-a345-3dfcb01e220f.0" configVersion="e24e2de4d3dfa44398cbc7f8b065dd6e00000000"/>
+		<Metadata name="Catalog.Сайты.Form.ФормаЭлемента" id="4c0e1d2a-49fe-4df1-9cd1-7ebff580a2ef" configVersion="f2e79b938156f64b91e99841911ed2a400000000"/>
+		<Metadata name="Catalog.Сайты.Form.ФормаЭлемента.Form" id="4c0e1d2a-49fe-4df1-9cd1-7ebff580a2ef.0" configVersion="7be8df05218b834b92a90234fa314db500000000"/>
+		<Metadata name="CommonModule.РаботаСHttpСервисом" id="d408e93c-be66-4ddf-8514-b36729553bb0" configVersion="10a4858bbd273740ac0224864f3dc64300000000"/>
+		<Metadata name="CommonModule.РаботаСHttpСервисом.Module" id="d408e93c-be66-4ddf-8514-b36729553bb0.0" configVersion="9123d0249a48b34c9eb30bb881d0ecc300000000"/>
+		<Metadata name="CommonModule.ФормированиеHTML" id="ff01aaab-358e-49ab-ab03-c4c7f0c6cee0" configVersion="0158a523f856614d8747beb42c6a5c2900000000"/>
+		<Metadata name="CommonModule.ФормированиеHTML.Module" id="ff01aaab-358e-49ab-ab03-c4c7f0c6cee0.0" configVersion="e1c3788a741aed4c9a386c4eb948e82c00000000"/>
+		<Metadata name="Configuration.КубокЙети" id="e5f57531-b762-4d2f-8c8e-ac7b87c2d1f7" configVersion="50cdb98c4ff9af4e8fc694291fdac9ad00000000"/>
+		<Metadata name="Enum.ТипыЭлементов" id="931a7dec-f925-4d3e-9366-ff588676030b" configVersion="a2a1e6b18254eb499b7858e7238f98fe00000000">
+			<Metadata name="Enum.ТипыЭлементов.EnumValue.css" id="2024ec1d-0977-42ec-9a95-3e248afa6aea"/>
+			<Metadata name="Enum.ТипыЭлементов.EnumValue.js" id="4971fa9c-94cb-452c-ac4c-92cbc06e2028"/>
+			<Metadata name="Enum.ТипыЭлементов.EnumValue.html" id="a64dd268-a4d3-46dc-89e0-4c0dbb304e27"/>
+		</Metadata>
+		<Metadata name="HTTPService.YetiApi" id="f1137bd6-d230-47c1-8e0f-08fa2c996b83" configVersion="56c759de7d872f49be9a44bcac76db4300000000">
+			<Metadata name="HTTPService.YetiApi.URLTemplate.YetiApi.Method.GET" id="3ab75338-3a42-46dd-9120-231b0cb9b914"/>
+			<Metadata name="HTTPService.YetiApi.URLTemplate.YetiApi" id="84fdd412-b8df-4f8c-9f9e-3b3230dce322"/>
+		</Metadata>
+		<Metadata name="HTTPService.YetiApi.Module" id="f1137bd6-d230-47c1-8e0f-08fa2c996b83.0" configVersion="921c832693e8e1479765880b0f00436f00000000"/>
+		<Metadata name="InformationRegister.Dostizheniya" id="9e5c2a97-29af-473c-a94f-b800812ceeab" configVersion="b980f237fa3cdb45a9db6d1e8d7f94ed00000000">
+			<Metadata name="InformationRegister.Dostizheniya.Dimension.profile" id="8867878f-efcb-47ab-9c3d-d582ae8012f5"/>
+			<Metadata name="InformationRegister.Dostizheniya.Dimension.championate" id="bc45eff3-0603-4c81-8104-41a220173abd"/>
+			<Metadata name="InformationRegister.Dostizheniya.Resource.championship_date" id="e296ca2f-986d-47f4-b55f-ce75ad170fca"/>
+			<Metadata name="InformationRegister.Dostizheniya.Resource.result" id="ed79d235-04b7-4d66-8fa6-921fb74c7c17"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Paticipants" id="f7f9bd49-261a-491b-81e2-ce5296e2e023" configVersion="94393ab6742bfa47b9f9b60b6e5d14cb00000000">
+			<Metadata name="InformationRegister.Paticipants.Resource.role" id="425b59fc-f2a1-40b1-9597-59180bb41101"/>
+			<Metadata name="InformationRegister.Paticipants.Dimension.championship" id="b83ef7ae-7de5-44d4-8575-5bf4af991c71"/>
+			<Metadata name="InformationRegister.Paticipants.Dimension.team" id="d88633cb-1efd-4ae2-ba42-2511b5524840"/>
+			<Metadata name="InformationRegister.Paticipants.Dimension.profile" id="e3dd236c-3b50-4ac0-8777-397c4c8722f4"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="06230ea7-3dfb-4e54-8f56-4766b864609a" configVersion="1d7ca85cd958674c92dd30eac30b366100000000"/>
+		<Metadata name="Subsystem.YetiCup" id="4663aa61-45c4-44c8-8e95-ecb18a0e0fb3" configVersion="acf5471005f4264aa755360b75dd726300000000"/>
+		<Metadata name="Subsystem.backend" id="d9f9a68f-15c5-4818-b163-23616923fd69" configVersion="201d3a84c959994995acee0f2deaccbb00000000"/>
+		<Metadata name="WebService.api" id="1f96f79e-0c34-42e8-92fd-64a7abfd93d8" configVersion="fd8e537ff8d2f747b3f060a9e201fca600000000">
+			<Metadata name="WebService.api.Operation.historys" id="1cf90970-9fdd-4cca-965d-561e0aa10e34"/>
+			<Metadata name="WebService.api.Operation.champlist.Parameter.date" id="261c633c-df1e-43af-9374-9539637092b0"/>
+			<Metadata name="WebService.api.Operation.timelines.Parameter.champ" id="287dbce3-677f-43d6-bbfb-9b5e3efa5613"/>
+			<Metadata name="WebService.api.Operation.profile.Parameter.user" id="2881e09e-5ef4-40ff-ac23-e5c97be1c6da"/>
+			<Metadata name="WebService.api.Operation.auth.Parameter.password" id="57b6013c-bfaf-48b9-a33e-2eb83efb6a9d"/>
+			<Metadata name="WebService.api.Operation.champlist" id="73a48a1a-27d6-4e5d-95fc-6c41d434df04"/>
+			<Metadata name="WebService.api.Operation.timelines" id="a59f15e1-6752-4988-92af-11280c5b07d7"/>
+			<Metadata name="WebService.api.Operation.historys.Parameter.profile" id="b4e58987-3741-4162-a98e-c89b4eb673a6"/>
+			<Metadata name="WebService.api.Operation.auth.Parameter.login" id="d3e30789-bad4-4cb1-ba6a-79bd50ab667e"/>
+			<Metadata name="WebService.api.Operation.auth" id="e0c0abb6-cb26-4bb8-89d7-94c7e782ff5a"/>
+			<Metadata name="WebService.api.Operation.profile" id="f75ac2d2-2ad9-44ad-be38-d03fdabb70d8"/>
+			<Metadata name="WebService.api.Operation.ping" id="f89eaef6-0c55-4898-be9f-268dfdcbe728"/>
+		</Metadata>
+		<Metadata name="WebService.api.Module" id="1f96f79e-0c34-42e8-92fd-64a7abfd93d8.0" configVersion="a9db7b6f99d0fa45a4c7af1bbfb8b1c700000000"/>
+		<Metadata name="XDTOPackage.yeti_cup" id="deeea53e-3416-47b7-8eca-c23ea8c58c4c" configVersion="1ae390fa1854444fb6b29dce251a2dfc00000000"/>
+		<Metadata name="XDTOPackage.yeti_cup.Package" id="deeea53e-3416-47b7-8eca-c23ea8c58c4c.0" configVersion="a6f0666bfd696b4484fac083c6b5ba9100000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
